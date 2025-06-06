@@ -1,0 +1,16 @@
+{
+    "secciones": [
+        {
+            "id": 1,
+            "nombre": "Datos Demograficos y Profesionales",
+            "preguntas": [
+              {
+                "numero": 1,
+                "tipo": "multiple",
+                "pregunta": "Edad:",
+                "opciones": ["Menos de 25 años", "25–34 años", "35–44 años", "45–54 años", "55 años o más"]
+              }
+            ]
+        }
+    ]
+}

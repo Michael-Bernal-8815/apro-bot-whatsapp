@@ -1,0 +1,11 @@
+.env
+data/questions.json
+data/resultados/resultados_encuesta.csv
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.DS_Store
+*.swp
+data\questions.json
